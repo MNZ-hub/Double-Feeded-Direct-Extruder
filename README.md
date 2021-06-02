@@ -1,1 +1,1 @@
-# Double-Feeded-Direct-Extruder
+Some progress in developing double-feeded direct extruder for 3d-printer. Its main features are exremely short distance from feeding gear and the end of a nozzle with using ordinary heatblock and heatbreak. Double feed gears and short freerun distance make this type of extruders suitable for flex filaments.
